@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
-• K1051
-• 2023
-• 2039084
-• Olivera
-• Micaela
++• curso: K1051
++• Año: 2023
++• Legajo: 2039084
++• Apellido:Olivera
++• Nombre: Micaela
